@@ -8,8 +8,10 @@
    gir remote add <origin> <url - адрес репозитория в сети>
    
    ```
-```
+```C#
 while(count > 0)
 {
 count --;
 }
+
+```
